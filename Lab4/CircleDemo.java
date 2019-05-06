@@ -14,6 +14,6 @@ System.out.println("The circumference of the first circle is\t" +circle1.circumf
 System.out.println("The area of the second circle is\t" + circle2.area() + "square cm");
 System.out.println("The circumference of the second circle is\t" +circle2.circumference() + " cm\n\n");
 
-System.out.println("MUAZU YAKUBU ALLAWA U16/FNS/CSC/2061");
+System.out.println("Aliyu usman U15/FNS/CSC/027");
     }
 }
