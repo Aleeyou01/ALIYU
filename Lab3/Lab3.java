@@ -49,7 +49,7 @@ System.out.println("\nEXERCISES 03 Perimeter&Area");
     }else{
     System.out.println("The longest side is: "+c);
     }
-	//MUAZU YAKUBU ALLAWA U16/FNS/CSC/2061    
+	// Aliyu Usman U15/FNS/CSC/027  
 
     if(a<b && a<c){
     System.out.println("The smallest side is: "+a);
